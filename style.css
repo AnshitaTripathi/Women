@@ -1,0 +1,57 @@
+H1{
+     color: #b92b27;
+}
+
+#login {
+     color:black;
+     background-color: aqua;
+}
+#signup {
+     color:white;
+     background-color: #b92b27;
+}
+
+.upvote {
+     color:white;
+     background-color: green;
+}
+
+.post a{
+     color : purple;
+     background-color: yellow;
+}
+
+p + h3{
+     text-decoration: underline;
+     color:#b92b27;
+}
+
+.upvote + button {
+     background-color: cornflowerblue;
+}
+
+div > input {
+     background-color: darksalmon;
+}
+
+input[type="text"] {
+     color: red;
+}
+
+
+input[type="password"]{
+     color: green;
+}
+
+#myId p {
+     color : green;
+}
+
+button :hover{
+     background-color: black;
+     color: white;
+}
+
+p ::first-line {
+     color: purple;
+}
